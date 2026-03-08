@@ -115,22 +115,6 @@ Use the following guidelines:
 
 ///
 
-
----
-
-* **PCB Label Number**: X900499 - 001 Rev. C
-* **PCB Soldermask Number**: X887998-010
-* **Hardware description / differences**: Reduced eMMC/Southbridge voltage regulator with unknown voltage divider. Does not contain data lines on the bottom layer of the PCB, under the HDMI ports.
-* **Owned by / Contributed by**: TorusHyperV
-* **Pictures**:
-
-/// info | Details
-  
-![X887998-010 Front](../_files/skus/X887998-010/front.jpeg)
-![X887998-010 Back](../_files/skus/X887998-010/back.jpeg)
-
-///
-
 ---
 
 * **PCB Label Number**: X940636 - 001 Rev. A
@@ -154,7 +138,27 @@ Use the following guidelines:
 * **Owned by / Contributed by**: Anonymous
 * **Pictures**:
 
-Not available yet
+/// info | Details
+
+Not available.
+
+///
+
+### Carmel Revisions
+
+
+* **PCB Label Number**: X900499 - 001 Rev. C
+* **PCB Soldermask Number**: X887998-010
+* **Hardware description / differences**: Reduced eMMC/Southbridge voltage regulator with unknown voltage divider. Does not contain data lines on the bottom layer of the PCB, under the HDMI ports.
+* **Owned by / Contributed by**: TorusHyperV
+* **Pictures**:
+
+/// info | Details
+  
+![X887998-010 Front](../_files/skus/X887998-010/front.jpeg)
+![X887998-010 Back](../_files/skus/X887998-010/back.jpeg)
+
+///
 
 ## Xbox One S
 
