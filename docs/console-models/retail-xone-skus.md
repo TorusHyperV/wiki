@@ -81,6 +81,22 @@ Use the following guidelines:
 
 ///
 
+---
+
+* **PCB Label Number**: X895857 - 050 Rev. A
+* **PCB Soldermask Number**: X877750 - 003 (interestingly, same as some other consoles above)
+* **Hardware description / differences**: Advanced Warfare Special Edition console from Sept 5th 2014. Durango Motherboard.
+* **Owned by / Contributed by**: Mr. Kronos1
+* **Pictures**: 
+/// info | Details
+  
+
+![X895857 front](../_files/skus/X895857/mfront.jpg)
+![X895857 sticker](../_files/skus/X895857/sticker.jpg)
+![X895857 APU](../_files/skus/X895857/apu.jpg)
+
+///
+
 ### Silverton Revisions
 
 * **PCB Label Number**: X903308 - 001 Rev. A-1
